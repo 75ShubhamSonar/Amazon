@@ -1,7 +1,7 @@
      
 #header{
      height:76px;
-     width:400px;
+     width:350px;
      background-color:black;
      display:inline-block;
      top:0px;
@@ -58,8 +58,8 @@ display:inline-block;
   }
   
   .social-media-list img {
-  width: 30px; /* Adjust the icon size as needed */
-  height: 30px;
+  width: 40px; /* Adjust the icon size as needed */
+  height: 40px;
   border: none;
   border-radius: 50%;
   }
