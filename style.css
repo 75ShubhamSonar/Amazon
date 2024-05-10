@@ -63,7 +63,13 @@ display:inline-block;
   border: none;
   border-radius: 50%;
   }
-  
+  #shop{
+width: 30px; /* Adjust the icon size as needed */
+  height: 30px;
+  border: none;
+  border-radius: 50%;
+
+  }
   
   
   
