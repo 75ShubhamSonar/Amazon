@@ -59,16 +59,21 @@ display:inline-block;
   
   .social-media-list img {
   width: 20px; /* Adjust the icon size as needed */
-  height: 20px;
+  height: 15px;
   border: none;
   border-radius: 50%;
   }
   #shop{
-width: 40px; /* Adjust the icon size as needed */
+  width: 40px; /* Adjust the icon size as needed */
   height: 40px;
   border: none;
   border-radius: 50%;
-
+  display: inline-block;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content:left;   
   }
   
   
