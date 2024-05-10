@@ -1,0 +1,113 @@
+     
+#header{
+     height:76px;
+     display:flex;
+ 
+     background-color:black;
+     display:inline-block;
+     position:fixed;
+     top:0px;
+     z-index:1;
+     
+     }
+ a{
+ text-decoration:none;
+ 
+ }
+ 
+#amazon{
+color:orange;
+font-size:19px;
+
+}
+
+#account{
+    color:white;
+    margin-left:48px;
+    }
+#cart{
+  color:white ;
+  margin-left:48px;
+  }
+#contact{
+color:white;
+margin-left:50px;
+}
+#mik{
+
+display:inline-block;
+}
+
+
+#btn{
+  background-color:orange;
+  }
+  
+ .social-media-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  }
+  
+  .social-media-list li {
+  margin-left: 18px;
+  }
+  
+  .social-media-list a {
+  display: inline-block;
+  }
+  
+  .social-media-list img {
+  width: 24px; /* Adjust the icon size as needed */
+  height: 24px;
+  border: none;
+  border-radius: 50%;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+ 
+
+ #slide{
+ overflow:hidden;
+ height: 10em;
+ position: relative;
+ background-size:cover;
+ }
+ 
+ #slide > * {
+ visibility: hidden; 
+ position: absolute;
+ top: 64; 
+ 
+  animation: 30s autoplay1 infinite}
+ 
+ @keyframes autoplay1 {
+ 0% {visibility: visible}
+ 33.33% {visibility: hidden}
+ }
+ 
+ #slide > *:nth-child(1)
+  {animation-delay: 0s
+  }
+ #slide > *:nth-child(2)
+  {animation-delay: 4s
+  }
+ #slide > *:nth-child(3) 
+ {animation-delay: 8s}
+ 
+ 
+ 
