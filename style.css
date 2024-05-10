@@ -5,9 +5,9 @@
      background-color:black;
      display:inline-block;
      top:0px;
-     left:0px;
+
      z-index:1;
-     margin-left:3px;
+     margin-right:3px;
      }
  a{
  text-decoration:none;
