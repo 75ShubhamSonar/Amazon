@@ -1,13 +1,13 @@
      
 #header{
      height:76px;
-     width:370px;
+     width:390px;
      background-color:black;
      display:inline-block;
      top:0px;
 
      z-index:1;
-     margin-left:10px;
+     margin-left:-10px;
      }
  a{
  text-decoration:none;
