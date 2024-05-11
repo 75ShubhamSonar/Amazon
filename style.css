@@ -58,10 +58,10 @@ display:inline-block;
   
   .social-media-list img {
   margin-left:7px;
-  width: 33px; /* Adjust the icon size as needed */
-  height: 33px;
+  width:40px; /* Adjust the icon size as needed */
+  height:40px;
   border: none;
-  border-radius: 50%;
+  border-radius:50%;
   }
 
   
