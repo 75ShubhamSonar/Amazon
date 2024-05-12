@@ -5,7 +5,7 @@ border: border-box;
  }
 
 .navbar {
-height: 65px;
+height: 69px;
 background-color:#000000;
 color: white;
 display:flex;
@@ -14,7 +14,7 @@ justify-content:space-evenly;
 }
 .nav-logo { 
 
-height:55px;
+height:65px;
 
 width: 200px;
 }
@@ -23,7 +23,7 @@ width: 200px;
 .logo {
 background-image: url("imagess/amazon1.jpg");
 background-size: cover;
-height: 50px;
+height: 64px;
 width: 100%;
 }
 .border {
