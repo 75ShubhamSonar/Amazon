@@ -74,6 +74,10 @@ align-items: center;
 font-size:1rem;
 background-color:#febd68;
 }
+.nav-search:hover{
+ border:2px solid orange;
+}
+
 span {
 font-size: 0.7rem;
 }
