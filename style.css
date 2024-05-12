@@ -74,3 +74,10 @@ align-items: center;
 font-size:1rem;
 background-color:#febd68;
 }
+span {
+font-size: 0.7rem;
+}
+.nav-second{
+font-size: 0.85rem;
+ font-weight: 700;
+}
