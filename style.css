@@ -86,6 +86,7 @@ font-size: 0.7rem;
  display: flex;
 justify-content: center;
 align-items: center;
+ 
 }
 .nav-second{
 font-size: 0.85rem;
@@ -93,6 +94,7 @@ font-size: 0.85rem;
  display: flex;
 justify-content: center;
 align-items: center;
+ width:50px;
 }
 .nav-cart i{
    font-size:30px;
