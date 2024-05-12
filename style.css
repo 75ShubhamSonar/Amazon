@@ -90,6 +90,9 @@ font-size: 0.85rem;
 }
 .nav-cart i{
    font-size:30px;
+ display: flex;
+justify-content: center;
+align-items: center;
 }
 .nav-cart{
    font-size:0.85rem;
