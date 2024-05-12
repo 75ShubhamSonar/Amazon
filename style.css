@@ -83,10 +83,16 @@ border-bottom-right-radius: 4px;
 
 .span {
 font-size: 0.7rem;
+ display: flex;
+justify-content: center;
+align-items: center;
 }
 .nav-second{
 font-size: 0.85rem;
  font-weight: 700;
+ display: flex;
+justify-content: center;
+align-items: center;
 }
 .nav-cart i{
    font-size:30px;
@@ -97,7 +103,5 @@ align-items: center;
 .nav-cart{
    font-size:0.85rem;
  font-weight:700;
- display: flex;
-justify-content: center;
-align-items: center;
+ 
 }
