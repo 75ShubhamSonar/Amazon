@@ -80,7 +80,10 @@ border-bottom-right-radius: 4px;
 .nav-search:hover{
  border:2px solid orange;
 }
-
+.nav-return{
+ width:25px;
+ 
+}
 span {
 font-size: 0.7rem;
 }
