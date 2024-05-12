@@ -6,7 +6,7 @@ border: border-box;
 
 .navbar {
 height: 60px;
-background-color: #8f1111;
+background-color:black;
 color: white;
 display:flex;
 align-items:center;
