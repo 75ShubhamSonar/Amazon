@@ -122,11 +122,64 @@ font-weight: 700;
 }
 
 
+.image-slider {
+ width: 100%;
+ overflow: hidden;
+ height 10em;
+ position: relative
+ }
+ #image-slider > * {visibility: hidden; position: absolute;
+ top: 0; left: 0; animation: 12s autoplay1 infinite}
+ 0% {visibility: visible}
+ 33.33% {visibility: hidden}
+
+ .slider-container {
+ display: flex;
+ width: 300%; /* Set to three times the width of a single image */
+ animation: slide 130s infinite;
+ }
+
+ .slider-container img {
+ width: 33.33%; /* Set to 100% divided by the number of images */
+ height: auto;
+ object-fit: cover;
+ }
+ 
+ @keyframes slide {
+ 1.5% { transform: translateX(0); }
+ 6% { transform: translateX(-33%); }
+ 10% { transform: translateX(-67%); }
+ 14% { transform: translateX(-100%); }
+ 18% { transform: translateX(-133.5%); }
+ 22% { transform: translateX(-167%); }
+ 26% { transform: translateX(-200%); }
+ 30% { transform: translateX(-233.5%); }
+ 
+   }
+ }
+ 
+ #slide > *:nth-child(1)
+ {animation-delay:2 s}
+ #slide > *:nth-child(2)
+ {animation-delay:2 s}
+ #slide > *:nth-child(3) 
+ {animation-delay:2s}
+ #slide > *:nth-child(4)
+ {animation-delay: 2s}
+ #slide > *:nth-child(5)
+ {animation-delay:2s}
+ #slide > *:nth-child(6) 
+ {animation-delay: 2s}
+ #slide > *:nth-child(7)
+ {animation-delay:2 s}
+ #slide > *:nth-child(8) 
+ {animation-delay: 2s}
 
 
 
 
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap");
+
+
 
 *,
 *:before,
@@ -197,67 +250,3 @@ body {
   height: 94vh;
 }
 
-
-
-
-
-
-
-
-.image-slider {
- width: 100%;
- overflow: hidden;
- height 10em;
- position: relative
- }
- #image-slider > * {visibility: hidden; position: absolute;
- top: 0; left: 0; animation: 12s autoplay1 infinite}
- 0% {visibility: visible}
- 33.33% {visibility: hidden}
- 
- 
- 
- 
- 
- 
- .slider-container {
- display: flex;
- width: 300%; /* Set to three times the width of a single image */
- animation: slide 130s infinite;
- }
- 
- .slider-container img {
- width: 33.33%; /* Set to 100% divided by the number of images */
- height: auto;
- object-fit: cover;
- }
- 
- @keyframes slide {
- 1.5% { transform: translateX(0); }
- 6% { transform: translateX(-33%); }
- 10% { transform: translateX(-67%); }
- 14% { transform: translateX(-100%); }
- 18% { transform: translateX(-133.5%); }
- 22% { transform: translateX(-167%); }
- 26% { transform: translateX(-200%); }
- 30% { transform: translateX(-233.5%); }
- 
-   }
- }
- 
- #slide > *:nth-child(1)
- {animation-delay:2 s}
- #slide > *:nth-child(2)
- {animation-delay:2 s}
- #slide > *:nth-child(3) 
- {animation-delay:2s}
- #slide > *:nth-child(4)
- {animation-delay: 2s}
- #slide > *:nth-child(5)
- {animation-delay:2s}
- #slide > *:nth-child(6) 
- {animation-delay: 2s}
- #slide > *:nth-child(7)
- {animation-delay:2 s}
- #slide > *:nth-child(8) 
- {animation-delay: 2s}
