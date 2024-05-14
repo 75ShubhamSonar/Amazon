@@ -229,6 +229,7 @@ ul {
   white-space: nowrap;
   text-align: center;
   scroll-behavior: smooth;
+  margin-top:-18;
 }
  li {
   position: -webkit-sticky;
