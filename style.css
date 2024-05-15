@@ -317,13 +317,13 @@ display:flex;
 margin-top:5px;
 }
 .inner-s4-1{
-background-image: url("image/G5.png");
+background-image: url("imagess/G5.png");
 background-size: cover;
-width:100%;;
+width:100%;
 height:45px;
 }
 .inner-s4-2{
-background-image: url("image/G6.jpg");
+background-image: url("imagess/G6.jpg");
 background-size: cover;
 width:100%;
 height:50px;
@@ -334,13 +334,13 @@ display:flex;
 margin-top:40px;
 }
 .inner-s4-3{
-background-image: url("image/G10.jpg");
+background-image: url("imagess/G10.jpg");
 background-size: cover;
 width:77px;
 height:40px;
 }
 .inner-s4-4{
-background-image: url("image/G4.jpg");
+background-image: url("imagess/G4.jpg");
 background-size: cover;
 width:130%;
 height:50px;
@@ -358,13 +358,13 @@ display:flex;
 margin-top:5px;
 }
 .inner-s4-5{
-background-image: url("image/F1.jpg");
+background-image: url("imagess/F1.jpg");
 background-size: cover;
 width:100%;
 height:50px;
 }
 .inner-s4-6{
-background-image: url("image/F2.jpg");
+background-image: url("imagess/F2.jpg");
 background-size: cover;
 width:100%;
 height:50px;
@@ -376,13 +376,13 @@ margin-top:30px;
 background-size:contain;
 }
 .inner-s4-7{
-background-image: url("image/F3.jpg");
+background-image: url("imagess/F3.jpg");
 background-size:cover;
 width:100%;
 height:50px;
 }
 .inner-s4-8{
-background-image: url("image/F4.jpg");
+background-image: url("imagess/F4.jpg");
 background-size: cover;
 width:100%;
 height:50px;
@@ -397,7 +397,7 @@ margin-top:5px;
 align-items:center;
 }
 .block-5{
-background-image: url("image/pc.jpg");
+background-image: url("imagess/pc.jpg");
 background-size:cover;
 width:110px;
 height:150px;
@@ -415,13 +415,13 @@ display:flex;
 margin-top:5px;
 }
 .inner-s4-9{
-background-image: url("image/R1.jpg");
+background-image: url("imagess/R1.jpg");
 background-size: cover;
 width:100%;
 height:50px;
 }
 .inner-s4-10{
-background-image: url("image/R2.jpg");
+background-image: url("imagess/R2.jpg");
 background-size: cover;
 width:100%;
 height:50px;
@@ -432,13 +432,13 @@ display:flex;
 margin-top:30px;
 }
 .inner-s4-11{
-background-image: url("image/R3.jpg");
+background-image: url("imagess/R3.jpg");
 background-size: cover;
 width:100%;
 height:50px;
 }
 .inner-s4-12{
-background-image: url("image/R4.jpg");
+background-image: url("imagess/R4.jpg");
 background-size: cover;
 width:100%;
 height:50px;
@@ -450,7 +450,7 @@ width:110px;
 height:170px;
 }
 .block-8{
-background-image: url("image/Toy.jpg");
+background-image: url("imagess/Toy.jpg");
 background-size:cover;
 width:100px;
 height:120px;
@@ -466,7 +466,7 @@ height:170px;
 align-items:center;
 }
 .block-9{
-background-image: url("image/top-deals.jpg");
+background-image: url("imagess/top-deals.jpg");
 background-size:contain;
 width:86px;
 height:95px;
@@ -491,7 +491,7 @@ width:110px;
 height:170px;
 }
 .block-10{
-background-image: url("image/watch.jpg");
+background-image: url("imagess/watch.jpg");
 background-size:cover;
 width:100px;
 height:110px;
@@ -506,7 +506,7 @@ width:110px;
 height:170px;
 }
 .block-11{
-background-image: url("image/G7.jpg");
+background-image: url("imagess/G7.jpg");
 background-size:cover;
 width:100px;
 height:110px;
@@ -521,7 +521,7 @@ width:105px;
 height:170px;
 }
 .block-12{
-background-image: url("image/Chear.jpg");
+background-image: url("imagess/Chear.jpg");
 background-size:cover;
 width:95px;
 height:110px;
