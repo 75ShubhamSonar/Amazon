@@ -384,7 +384,7 @@ height:175px;
 }
 .outer3{
 background-color:white;
-width:360px;
+width:330px;
 height:500px;
 margin-top:5px;
 align-items:center;
@@ -395,6 +395,7 @@ background-size:cover;
 width:340px;
 height:350px;
 margin-left:5px;
+margin-top:20px;
 }
 
 
