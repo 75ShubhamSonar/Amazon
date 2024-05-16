@@ -246,102 +246,309 @@ ul {
 
 
 
-
-
-
-
 .outer-s-4{
-height:1000px;
+height: 550px;
 background-color:#EEF7FF;
 color:black;
+
 }
 .outer-s-4-1{
 width:100%;
-height:600px;
-background-color:yellow;
+height:500px;
 display:flex;
 justify-content:space-evenly;
 }
 .outer-s-4-2{
 width:100%;
-height:600px;
+height:180px;
 display:flex;
 justify-content:space-evenly;
+
 }
 .outer-s-4-3{
 width:100%;
-height:600px;
+height:200px;
 display:flex;
 justify-content:space-evenly;
+
 }
 
 
 .c1{
-font-size: 0.1rem;
+font-size: 0.5rem;
 font-weight: 600;
 text-align:center;
-margin-top:50px;
+margin-top:125px;
 }
 .c2{
 font-size: 0.1rem;
 font-weight: 600;
 text-align:center;
-margin-top:50px;
+margin-top:125px;
 }
 .c3{
 font-size: 0.1rem;
 font-weight: 600;
 text-align:center;
-margin-top:50px;
+margin-top:110px;
 }
 .c4{
 font-size: 0.1rem;
 font-weight: 600;
 text-align:center;
-margin-top:50px;
+margin-top:110px;
 }
+
 
 
 .outer1{
 background-color:white;
 width:360px;
 height:500px;
+
 margin-top:5px;
+
 }
 .block-1{
 display:flex;
-background-color:pink;
-margin-top:50px;
+margin-top:20px;
+
 }
 .inner-s4-1{
-background-image: url("imagess/G5.png");
+background-image: url("image/G5.png");
 background-size: cover;
-width:100%;
-height:100%;
+width:100%;;
+height:120px;
 }
 .inner-s4-2{
-background-image: url("imagess/G6.jpg");
+background-image: url("image/G6.jpg");
 background-size: cover;
 width:100%;
-height:100%;
+height:120px;
 }
+
 
 .block-2{
 display:flex;
- background-color:pink;
- 
+margin-top:50px;
+
 }
 .inner-s4-3{
-background-image: url("imagess/G10.jpg");
+background-image: url("image/G10.jpg");
 background-size: cover;
-width:100%;
-height:100%;
+width:100px;
+height:100px;
+
 }
 .inner-s4-4{
-background-image: url("imagess/G4.jpg");
+background-image: url("image/G4.jpg");
+background-size: cover;
+width:130px;
+height:100px;
+
+}
+
+
+
+
+.outer2{
+background-color:white;
+width:105px;
+height:170px;
+margin-top:5px;
+}
+.block-3{
+display:flex;
+margin-top:5px;
+
+
+}
+.inner-s4-5{
+background-image: url("image/F1.jpg");
 background-size: cover;
 width:100%;
-height:100%;
+height:50px;
+}
+.inner-s4-6{
+background-image: url("image/F2.jpg");
+background-size: cover;
+width:100%;
+height:50px;
+}
+.block-4{
+display:flex;
+margin-top:30px;
+background-size:contain;
+
+}
+.inner-s4-7{
+background-image: url("image/F3.jpg");
+background-size:cover;
+width:100%;
+height:50px;
+}
+.inner-s4-8{
+background-image: url("image/F4.jpg");
+background-size: cover;
+width:100%;
+height:50px;
+}
+
+
+
+.outer3{
+background-color:white;
+width:120px;
+height:170px;
+margin-top:5px;
+align-items:center;
+}
+.block-5{
+background-image: url("image/pc.jpg");
+background-size:cover;
+width:110px;
+height:150px;
+margin-left:5px;
+}
+
+
+
+
+
+.outer4{
+background-color:white;
+width:105px;
+height:170px;
+}
+.block-6{
+display:flex;
+margin-top:5px;
+}
+.inner-s4-9{
+background-image: url("image/R1.jpg");
+background-size: cover;
+width:100%;
+height:50px;
+}
+.inner-s4-10{
+background-image: url("image/R2.jpg");
+background-size: cover;
+width:100%;
+height:50px;
+}
+.block-7{
+display:flex;
+margin-top:30px;
+}
+.inner-s4-11{
+background-image: url("image/R3.jpg");
+background-size: cover;
+width:100%;
+height:50px;
+}
+.inner-s4-12{
+background-image: url("image/R4.jpg");
+background-size: cover;
+width:100%;
+height:50px;
+
+}
+
+
+.outer5{
+background-color:white;
+width:110px;
+height:170px;
+
+}
+.block-8{
+background-image: url("image/Toy.jpg");
+background-size:cover;
+width:100px;
+height:120px;
+margin-left:5px;
+margin-top:15px;
+}
+
+
+.outer6{
+background-color:white;
+width:110px;
+height:170px;
+
+align-items:center;
+
+
+}
+.block-9{
+background-image: url("image/top-deals.jpg");
+background-size:contain;
+width:86px;
+height:95px;
+margin-top:15px;
+margin-left:15px;
+}
+.price{
+width:60px;
+height:11px;
+color:white;
+background-color:red;
+font-size: 0.1rem;
+display:flex;
+justify-content:space-evenly;
+align-items:center;
+
+}
+
+
+
+
+
+.outer7{
+background-color:white;
+width:110px;
+height:170px;
+}
+.block-10{
+background-image: url("image/watch.jpg");
+background-size:cover;
+width:100px;
+height:110px;
+margin-top:20px;
+margin-left:5px;
+
+}
+
+
+.outer8{
+background-color:white;
+width:110px;
+height:170px;
+}
+.block-11{
+background-image: url("image/G7.jpg");
+background-size:cover;
+width:100px;
+height:110px;
+margin-top:20px;
+margin-left:5px;
+
+}
+
+
+.outer9{
+background-color:white;
+width:105px;
+height:170px;
+}
+.block-12{
+background-image: url("image/Chear.jpg");
+background-size:cover;
+width:95px;
+height:110px;
+margin-top:20px;
+margin-left:5px;
+
 }
 
 
