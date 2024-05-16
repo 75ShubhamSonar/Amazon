@@ -309,6 +309,7 @@ margin-top:5px;
 }
 .block-1{
 display:flex;
+background-color:pink;
 }
 .inner-s4-1{
 background-image: url("imagess/G5.png");
@@ -325,6 +326,7 @@ height:150px;
 
 .block-2{
 display:flex;
+ background-color:pink;
  margin-top:20px;
 }
 .inner-s4-3{
