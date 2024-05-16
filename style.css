@@ -255,7 +255,6 @@ color:black;
 .outer-s-4-1{
 width:100%;
 height:500px;
-background-color:blue;
 display:flex;
 justify-content:space-evenly;
 }
@@ -394,7 +393,7 @@ align-items:center;
 background-image: url("imagess/pc.jpg");
 background-size:cover;
 width:340px;
-height:440px;
+height:350px;
 margin-left:5px;
 }
 
