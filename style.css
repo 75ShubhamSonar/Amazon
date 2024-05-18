@@ -262,9 +262,7 @@ justify-content:space-evenly;
 .outer-s-4-2{
 width:100%;
 height:500px;
-background-color:orange;
-
-flex-direction:row;
+background-color:black;
 justify-content:space-evenly;
 
 }
