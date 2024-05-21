@@ -457,11 +457,11 @@ margin-left:15px;
 
 
 .price{
-width:130px;
+width:180px;
 height:33px;
 color:white;
-background-color:blue;
-font-size:50px;
+background-color:red;
+font-size:25px;
 display:flex;
 justify-content:space-evenly;
 align-items:center;
