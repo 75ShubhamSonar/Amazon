@@ -426,7 +426,7 @@ height:175px;
 
 
 .outer5{
-background-color:orange;
+background-color:green;
 width:340px;
 height:500px;
 
@@ -435,7 +435,7 @@ height:500px;
 background-image: url("imagess/Toy.jpg");
 background-size:cover;
 width:310px;
-height:350px;
+height:250px;
 margin-left:14px;
 margin-top:15px;
 }
