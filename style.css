@@ -69,18 +69,18 @@ text-align:center;
 border-radius:50%
 }
 .popup-font{
-font-size:10px;
+font-size:30px;
 color:#31363F;
-margin-left:20px;
+margin-left:40px;
 margin-top:20px;
 
 }
 .address-btn{
 width:85%;
 height:25px;
-margin-top:5px;
+margin-top:20px;
 background-color:#ffc200;
-margin-left:20px;
+margin-left:40px;
 border:none;
 border-radius:5px;
 font-size:10px;
@@ -88,7 +88,7 @@ font-size:10px;
 .popup-location p{
 font-size:10px;
 margin-left:70px;
-margin-top:10px;
+margin-top:20px;
 }
 .input-apply{
 margin-left:20px;
