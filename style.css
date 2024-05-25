@@ -28,6 +28,7 @@ width: 100%;
 .popup-location{
 width: 600px;
 height:600px;
+position:fixed;
 background-color:white;
 border-radius: 6px;
 position: absolute;
