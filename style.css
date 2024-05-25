@@ -53,6 +53,76 @@ display:flex;
 color:black;
 align-items:center;
 }
+.close-btn {
+position:absolute;
+right:10px;
+top:5px;
+width:30px;
+height:30px;
+background:white;
+color:black;;
+font-size:30px;
+font-weight:600;
+line-height:30px;
+text-align:center;
+border-radius:50%
+}
+.popup-font{
+font-size:10px;
+color:#31363F;
+margin-left:20px;
+margin-top:20px;
+
+}
+.address-btn{
+width:85%;
+height:25px;
+margin-top:5px;
+background-color:#ffc200;
+margin-left:20px;
+border:none;
+border-radius:5px;
+font-size:10px;
+}
+.popup-location p{
+font-size:10px;
+margin-left:70px;
+margin-top:10px;
+}
+.input-apply{
+margin-left:20px;
+margin-top:8px;
+}
+
+.btn:hover{
+animation:pulsate 1s ease-in-out;
+}
+@keyframes pulsate {
+     8%{
+      box-shadow:
+      0 0 20px #5ddcff;
+      animation:infinite;
+      }
+      
+   }
+   
+   
+.dropdown{
+  width:85%;
+  height:25px;
+  margin-left:20px;
+  margin-top:15px;
+  
+  
+  }
+.Done{
+height:25px;
+margin-top:15px;
+margin-left:228px;
+background-color:#ffc200;
+border:none;
+border-radius:5px;
+}
 
 
 
