@@ -26,8 +26,8 @@ width: 100%;
 
 
 .popup-location{
-width: 300px;
-height:300px;
+width: 600px;
+height:600px;
 background-color:white;
 border-radius: 6px;
 position: absolute;
@@ -50,6 +50,7 @@ border-top-left-radius:6px;
 border-top-right-radius:6px;
 height:40px;
 display:flex;
+color:black;
 align-items:center;
 }
 
