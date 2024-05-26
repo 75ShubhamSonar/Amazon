@@ -86,7 +86,13 @@ border:none;
 border-radius:10px;
 font-size:20px;
 }
-
+#zip-code{
+margin-right:40px;
+width:80%;
+height:40px;
+font-size:20px;
+background-color:yellow;
+}
 .input-apply{
 margin-left:40px;
 margin-top:8px;
