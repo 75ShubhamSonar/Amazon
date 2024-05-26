@@ -88,13 +88,13 @@ font-size:20px;
 }
 
 .input{
-     width:65%;
+     width:60%;
      height:40px;
      border-radius:15px;
 }
 .apply-btn{
-     width:60px;
-     height:40px
+     width:80px;
+     height:70px
      border-radius:10px;
      color:black;
      background-color:white;
@@ -102,7 +102,7 @@ font-size:20px;
 .input-apply{
 margin-left:40px;
 margin-top:8px;
-width:100%;
+width:80%;
 height:65px;
 background-color:pink;
 }
