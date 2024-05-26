@@ -101,7 +101,9 @@ background-color:yellow;
 .apply-btn{
      width:30%;
      height:40px
-     border-radius:15px;
+     border-radius:10px;
+     color:black;
+     background-color:white;
 }
 .input-apply{
 margin-left:40px;
