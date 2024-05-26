@@ -26,8 +26,8 @@ width: 100%;
 
 
 .popup-location{
-width: 600px;
-height:600px;
+width: 400px;
+height:400px;
 position:fixed;
 background-color:white;
 border-radius: 6px;
@@ -49,7 +49,7 @@ transform: translate(-50%,-50%)scale(1);
 background-color:#EEEEEE;
 border-top-left-radius:6px;
 border-top-right-radius:6px;
-height:40px;
+height:35px;
 display:flex;
 color:black;
 align-items:center;
@@ -70,15 +70,15 @@ border-radius:50%
 }
 .popup-font{
 width:80%;
-font-size:25px;
+font-size:22px;
 color:#31363F;
 margin-left:40px;
 margin-top:20px;
 
 }
 .address-btn{
-width:90%;
-height:60px;
+width:85%;
+height:50px;
 margin-top:20px;
 background-color:#ffc200;
 margin-left:40px;
@@ -88,14 +88,14 @@ font-size:20px;
 }
 .popup-location p{
 font-size:25px;
-margin-left:70px;
+margin-left:60px;
 margin-top:20px;
 }
 .input-apply{
-margin-left:20px;
+margin-left:40px;
 margin-top:8px;
-width:60%;
-height:40px;
+width:70%;
+height:60px;
 }
 
 .btn:hover{
