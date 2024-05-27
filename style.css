@@ -128,7 +128,7 @@ animation:pulsate 1s ease-in-out;
    
    
 .dropdown{
-  width:70%;
+  width:80%;
   height:35px;
   margin-left:40px;
   }
@@ -136,7 +136,7 @@ animation:pulsate 1s ease-in-out;
 height:35px;
 width:70px;
 margin-top:15px;
-margin-left:228px;
+margin-left:250px;
 background-color:#ffc200;
 border:none;
 border-radius:5px;
