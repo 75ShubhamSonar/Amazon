@@ -3,6 +3,10 @@ margin:0;
 font-family: Arial;
 border: border-box;
 }
+.nav-singin{
+text-decoration:none;
+color:white;
+}
 .navbar {
 height: 69px;
 background-color:#000000;
