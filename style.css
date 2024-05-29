@@ -205,6 +205,10 @@ border-bottom-right-radius: 4px;
 .nav-search:hover{
  border:2px solid orange;
  }
+.nav-signin{
+text-decoration:none;
+color:white;
+}
 .span {
 font-size: 0.7rem;
  display: flex;
