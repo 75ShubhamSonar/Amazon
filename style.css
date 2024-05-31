@@ -152,8 +152,8 @@ border-radius:5px;
 }
 
 .popup-location-menu{
-width: 200px;
-height:700px;
+width: 400px;
+height:1500px;
 background-color:white;
 border-radius: 6px;
 position: absolute;
@@ -166,7 +166,7 @@ transition:transform 0.15s ,top 0s;
 }
 .open-popup-menu{
 visibility:visible;
-top: 50%;
+top: 0%;
 transform: translate(-50%,-50%)scale(1);
 position:fixed;
 
