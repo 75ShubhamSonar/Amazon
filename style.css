@@ -524,6 +524,24 @@ height:30px;
 
 
 
+@media screen and (max-width: 600px){
+.nav-logo { 
+height:40px;
+width: 170px;
+}
+.logo {
+background-image: url("imagess/amazon1.jpg");
+background-size: cover;
+height: 40px;
+width: 100%;
+}
+
+
+}
+
+
+
+
 
 
 
