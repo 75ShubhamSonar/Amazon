@@ -526,13 +526,13 @@ height:30px;
 
 @media screen and (max-width: 600px){
 .nav-logo { 
-height:40px;
+height:30px;
 width: 170px;
 }
 .logo {
 background-image: url("imagess/amazon1.jpg");
 background-size: cover;
-height: 40px;
+height: 30px;
 width: 100%;
 }
 .nav-address {
@@ -540,7 +540,7 @@ visibility:hidden;
 z-index:-2;
 }
 .navbar {
-height: 90px;
+height: 130px;
 background-color:#000000;
 color: white;
 display:flex;
@@ -548,11 +548,16 @@ align-items:center;
 justify-content:space-between;
 }
 nav-search {
-margin-top:40px;
+margin-top:60px;
 }
 .nav-singin {
 viability:hidden;
 z-index:-2;
+}
+.nav-return {
+visibility:hidden;
+z-index:-2;
+
 }
      
 }
