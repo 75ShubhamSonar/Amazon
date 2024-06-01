@@ -535,7 +535,9 @@ background-size: cover;
 height: 40px;
 width: 100%;
 }
-
+.nav-address {
+visibility:hidden;
+}
 
 }
 
