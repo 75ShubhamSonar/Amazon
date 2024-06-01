@@ -539,7 +539,14 @@ width: 100%;
 visibility:hidden;
 z-index:-2;
 }
-
+.navbar {
+height: 90px;
+background-color:#000000;
+color: white;
+display:flex;
+align-items:center;
+justify-content:space-between;
+}
 }
 
 
