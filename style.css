@@ -18,7 +18,7 @@ background-color:#000000;
 color: white;
 display:flex;
 align-items:center;
-justify-content:space-evenly;
+justify-content:space-between;
 }
 .nav-logo { 
 height:65px;
