@@ -537,6 +537,7 @@ width: 100%;
 }
 .nav-address {
 visibility:hidden;
+z-index:-2;
 }
 
 }
