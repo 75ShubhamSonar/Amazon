@@ -547,6 +547,11 @@ display:flex;
 align-items:center;
 justify-content:space-between;
 }
+nav-search {
+margin-top:40px;
+}
+
+     
 }
 
 
